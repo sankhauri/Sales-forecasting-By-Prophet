@@ -1,5 +1,5 @@
 # Sales-forecasting-By-Prophet  
-# The ipynb file will be uploaded soon.
+# The ipynb file is uploaded but the plotly figures are displayed.
 
 Sales forecasting
 In this project we going to establish a model for forecasting sales of different items from different stores. Our dataset contains the sales data for 10 stores and 50 items.
